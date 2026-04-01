@@ -162,9 +162,9 @@ Found a great Elon quote, framework, or story that should be in the knowledge ba
 
 ## Acknowledgements
 
-The knowledge base in this project is built on research from Walter Isaacson's [*Elon Musk*](https://www.simonandschuster.com/books/Elon-Musk/Walter-Isaacson/9781982181284) biography, as well as Elon's public talks, interviews, and writings. Frameworks like The Algorithm, the Idiot Index, and the 69 Core Methods are distilled from the book's detailed accounts of how Elon thinks and operates.
+The knowledge base in this project is built primarily on [*The Book of Elon: A Guide to Purpose and Success*](https://www.thebookofelon.com/) by **Eric Jorgenson**, with a foreword by Naval Ravikant and visuals by Jack Butcher. Frameworks like The Algorithm, the Idiot Index, and the 69 Core Methods are distilled from Jorgenson's meticulous curation of Elon's most useful ideas — in Elon's own words.
 
-If you find this skill valuable, go read the book. It's the real thing — 700+ pages of war stories, near-death experiences, and the reasoning behind every major decision. This skill is a tribute to that work, not a substitute for it.
+If you find this skill valuable, go read the book. It's the definitive collection of Elon's philosophy, decision-making frameworks, and hard-won lessons organized for practical use. This skill is a tribute to that work, not a substitute for it.
 
 ## License
 
