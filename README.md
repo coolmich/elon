@@ -51,14 +51,14 @@ The knowledge base is **7 files of deeply curated content** — not surface-leve
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/elon.git ~/.claude/skills/elon
+git clone https://github.com/coolmich/elon.git ~/.claude/skills/elon
 ```
 
 Or if you already have skills in `~/.claude/skills/`:
 
 ```bash
 cd ~/.claude/skills
-git clone https://github.com/YOUR_USERNAME/elon.git
+git clone https://github.com/coolmich/elon.git
 ```
 
 ### 2. Register the skill in your CLAUDE.md
