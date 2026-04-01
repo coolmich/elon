@@ -51,14 +51,14 @@ The knowledge base is **7 files of deeply curated content** — not surface-leve
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/coolmich/elon.git ~/.claude/skills/elon
+git clone https://github.com/coolmich/chat_with_elon.git ~/.claude/skills/elon
 ```
 
 Or if you already have skills in `~/.claude/skills/`:
 
 ```bash
 cd ~/.claude/skills
-git clone https://github.com/coolmich/elon.git
+git clone https://github.com/coolmich/chat_with_elon.git elon
 ```
 
 ### 2. Register the skill in your CLAUDE.md
@@ -159,6 +159,12 @@ The goal: when you type `/elon`, you should feel like you're actually talking to
 ## Contributing
 
 Found a great Elon quote, framework, or story that should be in the knowledge base? PRs welcome. The bar is high — we want depth, not breadth. Every addition should make the persona more accurate and the advice more useful.
+
+## Acknowledgements
+
+The knowledge base in this project is built on research from Walter Isaacson's [*Elon Musk*](https://www.simonandschuster.com/books/Elon-Musk/Walter-Isaacson/9781982181284) biography, as well as Elon's public talks, interviews, and writings. Frameworks like The Algorithm, the Idiot Index, and the 69 Core Methods are distilled from the book's detailed accounts of how Elon thinks and operates.
+
+If you find this skill valuable, go read the book. It's the real thing — 700+ pages of war stories, near-death experiences, and the reasoning behind every major decision. This skill is a tribute to that work, not a substitute for it.
 
 ## License
 
